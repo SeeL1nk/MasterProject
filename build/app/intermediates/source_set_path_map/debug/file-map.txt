@@ -1,0 +1,15 @@
+com.example.master_front.app-browser-1.5.0-0 C:\Users\arthu\.gradle\caches\transforms-3\39833b16a49a71929bf780c3f95ebfa2\transformed\browser-1.5.0\res
+com.example.master_front.app-jetified-annotation-experimental-1.3.0-1 C:\Users\arthu\.gradle\caches\transforms-3\6ccbe628ff55214799906596114cb282\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.master_front.app-jetified-window-java-1.0.0-beta04-2 C:\Users\arthu\.gradle\caches\transforms-3\79d1204a7cbc4f2f7f993f1666237dca\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.master_front.app-lifecycle-runtime-2.3.1-3 C:\Users\arthu\.gradle\caches\transforms-3\7ddf2bd7b1a16a0fcbd3f6c2b7e13d71\transformed\lifecycle-runtime-2.3.1\res
+com.example.master_front.app-core-1.10.1-4 C:\Users\arthu\.gradle\caches\transforms-3\cd4004a5a8de6d0562a63088cfc87de7\transformed\core-1.10.1\res
+com.example.master_front.app-jetified-window-1.0.0-beta04-5 C:\Users\arthu\.gradle\caches\transforms-3\d943c78a6995a024f7a7534709dfc0f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.master_front.app-debug-6 D:\master_front\android\app\src\debug\res
+com.example.master_front.app-main-7 D:\master_front\android\app\src\main\res
+com.example.master_front.app-pngs-8 D:\master_front\build\app\generated\res\pngs\debug
+com.example.master_front.app-resValues-9 D:\master_front\build\app\generated\res\resValues\debug
+com.example.master_front.app-rs-10 D:\master_front\build\app\generated\res\rs\debug
+com.example.master_front.app-mergeDebugResources-11 D:\master_front\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.master_front.app-mergeDebugResources-12 D:\master_front\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.master_front.app-merged_res-13 D:\master_front\build\app\intermediates\merged_res\debug
+com.example.master_front.app-packaged_res-14 D:\master_front\build\url_launcher_android\intermediates\packaged_res\debug
